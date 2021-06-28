@@ -1,0 +1,520 @@
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\FlowerShopFinal-v.02.dll.config
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\FlowerShopFinal-v.02.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\FlowerShopFinal-v.02.pdb
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\csc.exe
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\csc.exe.config
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\csc.rsp
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\csi.exe
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\csi.exe.config
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\csi.rsp
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.AppContext.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Console.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.IO.Compression.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Net.Http.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Net.Sockets.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.ValueTuple.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Xml.XPath.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\vbc.exe
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\vbc.exe.config
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\vbc.rsp
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\VBCSCompiler.exe
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\System.Web.Optimization.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Newtonsoft.Json.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Antlr3.Runtime.pdb
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\EntityFramework.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\EntityFramework.SqlServer.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.Owin.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\obj\Debug\FlowerShopFinal-v.02.csprojAssemblyReference.cache
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\obj\Debug\FlowerShopFinal-v.02.csproj.CopyComplete
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\obj\Debug\FlowerShopFinal-v.02.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.02\obj\Debug\FlowerShopFinal-v.02.pdb
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\FlowerShopFinal-v.02.dll.config
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\FlowerShopFinal-v.02.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\FlowerShopFinal-v.02.pdb
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\csc.exe
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\csc.exe.config
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\csc.rsp
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\csi.exe
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\csi.exe.config
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\csi.rsp
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.AppContext.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Console.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Net.Http.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\vbc.exe
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\vbc.exe.config
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\vbc.rsp
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\System.Web.Optimization.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Newtonsoft.Json.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Antlr3.Runtime.pdb
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\EntityFramework.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\EntityFramework.SqlServer.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.Owin.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\obj\Debug\FlowerShopFinal-v.02.csprojAssemblyReference.cache
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\obj\Debug\FlowerShopFinal-v.02.csproj.CopyComplete
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\obj\Debug\FlowerShopFinal-v.02.dll
+C:\Users\Nomaderino\Desktop\FlowerShopReal\FlowerShopFinal-v.02\obj\Debug\FlowerShopFinal-v.02.pdb
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.dll.config
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.pdb
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\csc.exe
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\csc.exe.config
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\csc.rsp
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\csi.exe
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\csi.exe.config
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\csi.rsp
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.AppContext.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Console.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.IO.Compression.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Net.Http.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Net.Sockets.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.ValueTuple.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XPath.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\vbc.exe
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\vbc.exe.config
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\vbc.rsp
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\VBCSCompiler.exe
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\System.Web.Optimization.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Newtonsoft.Json.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Antlr3.Runtime.pdb
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\EntityFramework.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\EntityFramework.SqlServer.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.Owin.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csprojAssemblyReference.cache
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csproj.CopyComplete
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.dll
+C:\Users\svile\source\repos\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.pdb
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.dll.config
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.pdb
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\csc.exe
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\csc.exe.config
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\csc.rsp
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\csi.exe
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\csi.exe.config
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\csi.rsp
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.AppContext.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Console.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Net.Http.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\vbc.exe
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\vbc.exe.config
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\vbc.rsp
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\System.Web.Optimization.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Newtonsoft.Json.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Antlr3.Runtime.pdb
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\EntityFramework.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\EntityFramework.SqlServer.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.Owin.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csprojAssemblyReference.cache
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csproj.CopyComplete
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.dll
+C:\Users\Nomaderino\Desktop\22222222222222\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.pdb
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.dll.config
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.pdb
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\csc.exe
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\csc.exe.config
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\csc.rsp
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\csi.exe
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\csi.exe.config
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\csi.rsp
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.AppContext.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Console.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Net.Http.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\vbc.exe
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\vbc.exe.config
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\vbc.rsp
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\System.Web.Optimization.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Newtonsoft.Json.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Antlr3.Runtime.pdb
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\EntityFramework.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\EntityFramework.SqlServer.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.Owin.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csprojAssemblyReference.cache
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csproj.CopyComplete
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.dll
+C:\Users\Nomaderino\Desktop\bashtatitititititi\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.pdb
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.dll.config
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.pdb
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\csc.exe
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\csc.exe.config
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\csc.rsp
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\csi.exe
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\csi.exe.config
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\csi.rsp
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.AppContext.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Console.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.IO.Compression.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Net.Http.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Net.Sockets.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.ValueTuple.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XPath.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\vbc.exe
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\vbc.exe.config
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\vbc.rsp
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\VBCSCompiler.exe
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\System.Web.Optimization.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Newtonsoft.Json.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Antlr3.Runtime.pdb
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\EntityFramework.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\EntityFramework.SqlServer.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.Owin.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csprojAssemblyReference.cache
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csproj.CoreCompileInputs.cache
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csproj.CopyComplete
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.dll
+C:\Users\svile\Desktop\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.pdb
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.dll.config
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\FlowerShopFinal-v.02.pdb
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\csc.exe
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\csc.exe.config
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\csc.rsp
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\csi.exe
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\csi.exe.config
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\csi.rsp
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.AppContext.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Console.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.IO.Compression.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Net.Http.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.ValueTuple.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\vbc.exe
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\vbc.exe.config
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\vbc.rsp
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\VBCSCompiler.exe
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\System.Web.Optimization.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Newtonsoft.Json.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Antlr3.Runtime.pdb
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\EntityFramework.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\EntityFramework.SqlServer.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.Owin.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csproj.AssemblyReference.cache
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csproj.CoreCompileInputs.cache
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.csproj.CopyComplete
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.dll
+C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\obj\Debug\FlowerShopFinal-v.02.pdb

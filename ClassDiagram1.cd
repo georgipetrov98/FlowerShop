@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Access privilege: Admin">
+    <Position X="16.184" Y="0.968" Height="0.295" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Access privilege: *">
+    <Position X="16.013" Y="6.652" Height="0.291" Width="1.221" />
+  </Comment>
+  <Comment CommentText="Access privilege: Customer">
+    <Position X="5.082" Y="7.941" Height="0.295" Width="1.7" />
+  </Comment>
+  <Class Name="FlowerShopFinal_v._02.ManageProducts">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAAAAAAAAAAAAAAAAABAAAAAQEAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin\ManageProducts.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02.ManageSuppliers">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin\ManageSuppliers.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02.ViewInquiries">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAIAAAA=</HashCode>
+      <FileName>Admin\ViewInquiries.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02.Admin.ManageQuotations">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Admin\ManageQuotations.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02.Admin.ManageUsers">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAQAAAAAAAAAAAAAAAAAAAQAAAAggAAAAIAAAA=</HashCode>
+      <FileName>Admin\ManageUsers.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02.Cart">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAAEAAAAAAAAAAAAAEAAAQAAAAggAAAAIAAAA=</HashCode>
+      <FileName>Customer\Cart.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02.Favourites">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgEAAAAAAgAggAAAAIAQAA=</HashCode>
+      <FileName>Customer\Favourites.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02.ShopSearch">
+    <Position X="10.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAggAAAAYAwAgAAAAAIAAAQ=</HashCode>
+      <FileName>Customer\ShopSearch.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02.Customer.Quotations">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAEAAAQAEAAAARAAAAAQYAAEwAAAAAIAACA=</HashCode>
+      <FileName>Customer\Quotations.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02.ErrorPage">
+    <Position X="14" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAICAAI=</HashCode>
+      <FileName>404.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02.ContactUs">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAIAAAA=</HashCode>
+      <FileName>ContactUs.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02._Default">
+    <Position X="16" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowerShopFinal_v._02.SiteMaster" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAgAIAAAAQKBAAAAIAAEAAAhAAAAAAICAAI=</HashCode>
+      <FileName>Site.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
