@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+</sitemanifest>

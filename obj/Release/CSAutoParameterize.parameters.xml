@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-FlowerShopFinal-v.02-20200413055557.mdf;Initial Catalog=aspnet-FlowerShopFinal-v.02-20200413055557;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\NoMaD\\Desktop\\Look\ through\\3rd\ year\ shit\\Application\ Dev\\flowershop\\FlowerShopFinal-v\.03\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="ConnectionStringFlowers-Web.config Connection String" description="ConnectionStringFlowers Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\flowerdbfinal.mdf;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\NoMaD\\Desktop\\Look\ through\\3rd\ year\ shit\\Application\ Dev\\flowershop\\FlowerShopFinal-v\.03\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionStringFlowers']/@connectionString" />
+  </parameter>
+</parameters>

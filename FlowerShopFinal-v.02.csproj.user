@@ -8,9 +8,11 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
-    <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
+    <LastActiveSolutionConfig>Release|Any CPU</LastActiveSolutionConfig>
     <ProjectView>ShowAllFiles</ProjectView>
-    <ActiveDebugTarget />
+    <ActiveDebugTarget>
+    </ActiveDebugTarget>
+    <NameOfLastUsedPublishProfile>C:\Users\NoMaD\Desktop\Look through\3rd year shit\Application Dev\flowershop\FlowerShopFinal-v.03\Properties\PublishProfiles\FlowerShopFinal - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
