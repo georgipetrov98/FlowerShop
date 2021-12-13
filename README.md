@@ -6,5 +6,19 @@ The idea of this website is a Flower shop. Project comes with the option to regi
 
 Examples below
 
+Guest view: ![alt text](https://github.com/georgipetrov98/FlowerShop/blob/main/Content/img/product/Unregistered.png)
+
+Registered user functions: 
+Browse products + create inquiries + wishlist: ![alt text](https://github.com/georgipetrov98/FlowerShop/blob/main/Content/img/product/Shopping.png)
+
 Admin functions: ![alt text](https://github.com/georgipetrov98/FlowerShop/blob/main/Content/img/product/AdminView.png)
+
 Add update product: ![alt text](https://github.com/georgipetrov98/FlowerShop/blob/main/Content/img/product/AddUpdateProductsAdmin.png)
+
+Manage inquiries: ![alt text](https://github.com/georgipetrov98/FlowerShop/blob/main/Content/img/product/InquiriesAdmin.png)
+
+Manage suppliers: ![alt text](https://github.com/georgipetrov98/FlowerShop/blob/main/Content/img/product/ManageSuppliers.png)
+
+Manage quotations: ![alt text](https://github.com/georgipetrov98/FlowerShop/blob/main/Content/img/product/ManageQuotations.png)
+
+
