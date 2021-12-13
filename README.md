@@ -6,4 +6,4 @@ The idea of this website is a Flower shop. Project comes with the option to regi
 
 Examples below
 
-Admin functions: ![alt text](https://github.com/georgipetrov98/FlowerShop/blob/main/Content/img/product/AdminView.png)
+Admin functions: ![alt text]
